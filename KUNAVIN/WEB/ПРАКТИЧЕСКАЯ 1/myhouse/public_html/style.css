@@ -1,0 +1,106 @@
+h1.main,
+h1.blue,
+h1.red,
+h1.green,
+h1.orange {
+    color: navy;
+    text-align: left;
+    font-family: Verdana;
+    font-size: 16pt;
+}
+h1.red {
+    color: red;
+}
+h1.blue {
+    color: blue;
+}
+h1.green {
+    color: green;
+}
+h1.orange {
+    color: orange;
+}
+h1.main {
+    color: navy;
+}
+
+
+p.text1,
+p.text2,
+p.text3,
+p.text4,
+p.text5{
+    text-align: justify;
+    color: #191970;
+    font-family: Arial;
+    font-size: 12pt;
+}
+
+p.text1{
+    color: navy;
+    text-align: center;
+}
+p.text2{
+    color: blue;
+    text-align: left;
+}
+p.text3{
+    color: red;
+    text-align: right;
+}
+p.text4{
+    color: green;
+    text-align: justify;
+}
+p.text5{
+    color: orange;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #0000FF;
+    font-family: Verdana;
+    font-size: 20pt;
+}
+
+h2 {
+    text-align: right;
+    color: #800000;
+    font-family: Verdana;
+    font-size: 16pt;
+}
+
+p {
+    text-align: justify;
+    color: #191970;
+    font-family: Arial;
+    font-size: 12pt;
+}
+
+body {
+    background-image: url(images/fon9.jpg);
+}
+
+h3 {
+    text-align: left;
+    color: #0000FF;
+    font-family: Segoe UI;
+    font-size: 16pt;
+}
+
+ul {
+    list-style-image: url(images/spisok_1.gif);
+    font-size: 14pt;
+    font-weight: bold;
+    font-family: Gill Sans;
+    color: goldenrod;
+}
+
+ol {
+    list-style-type: upper-roman;
+    font-size: 14pt;
+    font-weight: bold;
+    font-family: Gill Sans;
+    color: goldenrod;
+}

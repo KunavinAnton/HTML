@@ -1,0 +1,12 @@
+h1,h2, tr{
+    color: navy;
+}
+li{
+    color:green;
+    font-weight: bold;
+}
+tr.tableH{
+    color: navy;
+    font-weight: bold;
+}
+
